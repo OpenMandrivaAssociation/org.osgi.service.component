@@ -1,0 +1,4 @@
+sources:
+  org.osgi.service.component-1.5.1-sources.jar: 656f65c2fcd219e36bfc21d6b549456c76e53e44
+  org.osgi.service.component.annotations-1.5.1-sources.jar: c47a5f236d664f35042f5857b7a49f9ff0380b45
+  org.osgi.service.component-1.5.1-LICENSE: 92170cdc034b2ff819323ff670d3b7266c8bffcd
